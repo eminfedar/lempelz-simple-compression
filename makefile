@@ -1,2 +1,2 @@
 build:
-	g++ --std=c++11 -I "./" main.cpp -o app
+	g++ --std=c++11 -I "./src" ./src/main.cpp -o app
