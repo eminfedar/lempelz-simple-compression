@@ -27,7 +27,6 @@ class Lempelz
     static vector<bool> encode(string data)
     {
         vector<bool> encodedString;
-        string encodedStringTEST = "";
         vector<string> dictionary;
         dictionary.push_back("");
 
